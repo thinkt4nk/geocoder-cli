@@ -1,6 +1,6 @@
 ### Geocoder CLI
 
-Simple wrapper around [wyattdanger/geocoder|https://github.com/wyattdanger/geocoder]
+Simple wrapper around [wyattdanger/geocoder](https://github.com/wyattdanger/geocoder)
 
 #### Installation
 
