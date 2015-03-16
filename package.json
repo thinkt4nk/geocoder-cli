@@ -1,0 +1,15 @@
+{
+  "name": "geocode",
+  "version": "1.0.0",
+  "description": "Geocodes an address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geocoder": "^0.2.2",
+    "l33teral": "^2.0.4"
+  }
+}
